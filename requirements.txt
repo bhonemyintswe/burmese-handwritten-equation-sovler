@@ -3,4 +3,3 @@ numpy
 keras
 streamlit
 streamlit_drawable_canvas
-burmese_handwritten_equ_solver
