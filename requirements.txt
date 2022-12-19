@@ -2,3 +2,4 @@ opencv-python
 numpy
 keras
 streamlit
+streamlit_drawable_canvas
